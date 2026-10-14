@@ -1,0 +1,20 @@
+# One keyword per line. Lines starting with # are ignored.
+# Matching ignores case, spaces, half-spaces and Arabic/Persian letter variants,
+# so "تحلیلگر", "تحلیل گر" and "تحلیل‌گر" are the same keyword. Write each once.
+business analytics
+business analysis
+business analyst
+تحلیلگر کسب و کار
+Business Data Analyst
+Data Analyst
+#Data Scientist
+# توسعه‌ی کسب‌ و کار
+# توسعه‌ کسب‌ و کار
+تحلیل داده
+تحلیلگر داده
+# Business Development
+علم داده
+# Organizational Analyst
+بیزینس آنالیز
+بیزینس آنالیست
+بیزینس آنالتیکس

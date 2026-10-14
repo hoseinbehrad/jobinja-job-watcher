@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+seen.json
+progress.json
+new_jobs.log
+New folder/
+Untitled-1.ipynb
+.ipynb_checkpoints/
